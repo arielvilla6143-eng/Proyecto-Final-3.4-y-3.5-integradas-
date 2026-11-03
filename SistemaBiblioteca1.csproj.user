@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="BarraAccionesPersona3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="BotonPersona3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEditorialcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEjemplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMaestro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMotivoEliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmReporteMasivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSancion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmVisorPrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GuiaPersona3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Menup.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MenuPersona3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
